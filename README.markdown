@@ -1,3 +1,3 @@
 Experimental implementation of the Remote Actor that makes Akka's local Actor Registry accessible remotely. It may be useful, if you want to simplify the scalabilty through actors, automatically adding remote actor references to the local registry (when a new node is added to the system(cluster)), so that actor registry running at any node any time contains links to all the actors system-wide.
 
-[http://vasilrem.com/blog/software-development/even-simpler-scalability-with-akka-through-registryactor]
+**[Details](http://vasilrem.com/blog/software-development/even-simpler-scalability-with-akka-through-registryactor)**
